@@ -18,14 +18,4 @@
 
 ตัวอย่างการเล่น
 
-Guess the 4-letter word (A-Z): ABCD
-Correct letters: 4, Correct positions: 2
-Guess the 4-letter word (A-Z): DCBA
-Correct letters: 4, Correct positions: 0
-Guess the 4-letter word (A-Z): ACDF
-Correct letters: 4, Correct positions: 1
-Guess the 4-letter word (A-Z): ACDE
-Correct letters: 4, Correct positions: 2
-Guess the 4-letter word (A-Z): ACBD
-Correct letters: 4, Correct positions: 3
-Congratulations! You guessed correctly in 5 attempts!
+ ![Screenshot 2023-05-09 155453](https://user-images.githubusercontent.com/117570009/237046217-43ad0419-118d-441d-ad1c-022c8711852e.png)
